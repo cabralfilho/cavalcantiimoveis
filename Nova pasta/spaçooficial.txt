@@ -1,0 +1,234 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="assets/img/icon.png">
+    <title>cavalcantiimoveis</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    
+    <script src="assets/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+    <!--link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu" rel="stylesheet"--> 
+    <!--video width="50%" height="50%" controls autoplay loop muted id="videoId">
+  
+      <source src="assets/video/demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video-->
+      
+    <style media="screen">
+        body {background: #fff; font-family: "Open Sans", sans-serif;}
+        .intro {background-image: url("assets/img/bg.png"); color: #fff;}
+        .navbar .navbar-nav .nav-link {color: #fff;}
+        footer {color: #fff; }
+        footer p i {color: #b01f94;}
+    </style>
+</head>
+<body>
+  
+        <header>
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top shadow">
+                <a class="navbar-brand" href="#">
+                    <!--img src="assets/img/logo.png" class="img-fluid" alt="Logo"-->
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegaÃ§Ã£o">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+                    <ul class="navbar-nav ml-auto">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <i class="fas fa-home"></i> Home
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <i class="fas fa-users"></i> Sobre NÃ³s
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <i class="fas fa-envelope"></i> Contato
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-toggle="modal" data-target="#modalExemplo">
+                                <i class="fas fa-search"></i> Pesquisar
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </nav>
+
+            <div class="jumbotron jumbotron-fluid intro mt-5">
+              <div class="container">
+                  <div class="row">
+
+                      <div class="col-sm-6">
+                          <h1 class="mb-4">RESIDENCIAL SPAÃ‡O </h1>
+                          <h6 class="mb-4">APARTAMENTO DE 02 QUARTO COM SUÃTE , 61.45 MÂ².
+                            EM SAMAMBAIA SUL
+                            ENTREGA  EM JANEIRO 2021.
+                            PROXIMO A UPA
+                          </h6>
+                            <h1>LAZER</h1>
+                            
+                          <h6 class="mb-4">
+                            â—PORCELANATO <br>
+                            â—SALÃƒO DE EVENTOS<br> 
+                            â—CHURRASQUEIRA<br>
+                            â—SEGURANÃ‡A<br> 
+                            â—BICICLETÃRIO<br> 
+                            â—GARAGEM COBERTA<br></h6>
+                            <h1>VALOR  PARA FINANCIAMENTO DIRETO OU BANCÃRIO</h1>
+                          <h6 class="mb-4">SINAL R$ 48.OOO.OO
+                            60 MENSAIS R$ 1.861 54
+                             5 ANUAIS R$ 10.661.58
+                            TOTAL R$ 213.231.50</h6>
+                      </div>
+
+                      <!-- Modal -->
+<div class="modal fade" id="modalExemplo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">TÃ­tulo do modal</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+        <button type="button" class="btn btn-primary">Salvar mudanÃ§as</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+                      <div class="col-sm-6 col-md-5 col-xl-5">
+                          <img src="assets/img/intro.png" alt="Intro" class="img-fluid">
+                      </div>
+
+
+                  </div>
+
+              </div>
+            </div>
+
+        </header>
+
+        <div class="container main mt-5">
+            <h1 class="text-center">
+                <i class="fas fa-users"></i> Sobre NÃ³s
+            </h1>
+            <hr>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+
+        <div class="artigos container mt-5">
+            <h1 class="text-center">
+                LanÃ§amento 2021
+            </h1>
+            <hr>
+
+            <div class="row">
+
+                <div class="card mx-auto" style="width: 18rem;">
+                  <img class="card-img-top" src="assets/img/quarto.jpeg" alt="Imagem de capa do card">
+                  <div class="card-body">
+                    <!--h5 class="card-title">TÃ­tulo do card</h5>
+                    <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a-->
+                  </div>
+                </div>
+                <div class="card mx-auto" style="width: 18rem;">
+                  <img class="card-img-top" src="assets/img/escritorio.jpeg" alt="Imagem de capa do card">
+                  <div class="card-body">
+                    <!--h5 class="card-title">TÃ­tulo do card</h5>
+                    <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a-->
+                  </div>
+                </div>
+                <div class="card mx-auto" style="width: 18rem;">
+                  <img class="card-img-top" src="assets/img/quarto01.jpeg" alt="Imagem de capa do card">
+                  <div class="card-body">
+                    <!--h5 class="card-title">TÃ­tulo do card</h5>
+                    <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a-->
+                  </div>
+                </div>
+
+                <div class="card mx-auto" style="width: 18rem;">
+                  <img class="card-img-top" src="assets/img/sala.jpeg" alt="Imagem de capa do card">
+                  <div class="card-body">
+                    <!--h5 class="card-title">TÃ­tulo do card</h5>
+                    <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a-->
+                  </div>
+                </div>
+
+                <div class="card mx-auto" style="width: 18rem;">
+                  <img class="card-img-top" src="assets/img/spaÃ§o.jpeg" alt="Imagem de capa do card">
+                  <div class="card-body">
+                    <!--h5 class="card-title">TÃ­tulo do card</h5>
+                    <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a-->
+                  </div>
+                </div>
+              
+
+            </div><!-- FINAL da row para os cards -->
+
+            <hr>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="assets/video/demo.mp4" allowfullscreen></iframe>
+              <div class="card-body">
+                <h5 class="card-title">TÃ­tulo do card</h5>
+                <p class="card-text">Um exemplo de texto rÃ¡pido para construir o tÃ­tulo do card e fazer preencher o conteÃºdo do card.</p>
+                <a href="#" class="btn btn-primary">Visitar</a>
+              </div>
+            </div>
+              <div class="container-fluid px-20">
+          
+            <p class="text-center mt-5">
+                <button type="button" class="btn btn-primary btn-lg">Veja todos os artigos</button>
+            </p>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://api.whatsapp.com/send?l=pt-BR&phone=5561993664701&text=cavalcantiimoveis.com" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+  z-index:1000;" target="_blank">
+<i style="margin-top:16px" class="fa fa-whatsapp"></i>
+</a>
+
+        </div><!-- FINAL da artigos container -->
+
+
+        <footer class="jumbotron jumbotron-fluid bg-yelow mb-0 mt-5">
+            <p class="text-center">&reg; Todos Direitos Reservados. Criado por <a href="#">cblnets</a></i></p>
+        </footer>
+
+    </div><!-- FINAL DA container -->
+</body>
+</html>
+
+
+
